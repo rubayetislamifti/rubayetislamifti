@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/rubayet_ifti" target="blank"><img src="https://img.shields.io/twitter/follow/rubayet_ifti?logo=twitter&style=for-the-badge" alt="rubayet_ifti" /></a> </p>
 
-- 🔭 I’m currently working on [Laravel+Vuejs](https://github.com/rubayetislamifti/Laravel-Vuejs)
+- 🔭 I’m currently working on [Team Tracker](https://github.com/rubayetislamifti/team_tracker_backend)
 
 - 🌱 I’m currently learning **Laravel with RESTful API**
 
-- 👯 Recently Deploy a project [TeanaturE](https://github.com/rubayetislamifti/Teanature_User)
+- 👯 Recently deployed a project [TeanaturE](https://github.com/rubayetislamifti/Tea_Nature)
 
-- 🤝 My API Based Project [RESTFul-API-Laravel](https://github.com/rubayetislamifti/RESTful-Api-Laravel)
+- 🤝 My API Based Project [Wallpaper HUB Backend](https://github.com/rubayetislamifti/wallpaper_hub_backend)
 
 - 👨‍💻 All of my projects are available at [https://github.com/rubayetislamifti](https://github.com/rubayetislamifti)
 
