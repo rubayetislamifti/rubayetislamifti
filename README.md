@@ -27,8 +27,8 @@
 <p align="left">
 <a href="https://twitter.com/rubayet_ifti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rubayet_ifti" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/md-rubayet-islam-ifti-63073319a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-rubayet-islam-ifti-63073319a" height="30" width="40" /></a>
-<a href="https://fb.com/rubayetislamifti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rubayetislamifti" height="30" width="40" /></a>
-<a href="https://instagram.com/rubayet.islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rubayet.islam" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=61578371667077" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rubayetislamifti" height="30" width="40" /></a>
+<a href="https://www.instagram.com/rubayet.sheikh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rubayet.islam" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
