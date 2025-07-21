@@ -7,21 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/rubayet_ifti" target="blank"><img src="https://img.shields.io/twitter/follow/rubayet_ifti?logo=twitter&style=for-the-badge" alt="rubayet_ifti" /></a> </p>
 
-- 🔭 I’m currently working on [Team Tracker](https://github.com/rubayetislamifti/team_tracker_backend)
 
-- 🌱 I’m currently learning **Laravel with RESTful API**
+---
 
-- 👯 Recently deployed a project [TeanaturE](https://github.com/rubayetislamifti/Tea_Nature)
+* 🔭 I’m currently working on [**Team Tracker**](https://github.com/rubayetislamifti/team_tracker_backend) – a real-time employee tracking API.
+* 🌱 Actively learning **Laravel with RESTful API Development** to build scalable backend systems.
+* 🚀 Recently deployed: [**TeanaturE**](https://github.com/rubayetislamifti/Tea_Nature) – an eCommerce backend for organic tea products.
+* 🛠️ My API project: [**Wallpaper HUB Backend**](https://github.com/rubayetislamifti/wallpaper_hub_backend) – a Laravel API for a wallpaper mobile app.
+* 📂 All my projects are available at [github.com/rubayetislamifti](https://github.com/rubayetislamifti)
+* 💬 Ask me about **Laravel, REST APIs, or backend development**
+* 📫 Reach me at **[rubayetislam16@gmail.com](mailto:rubayetislam16@gmail.com)**
+* ⚡ Fun fact: *What’s the difference between a spider and a web developer? Both are great at web development, but only one uses Laravel! 🕷️💻*
 
-- 🤝 My API Based Project [Wallpaper HUB Backend](https://github.com/rubayetislamifti/wallpaper_hub_backend)
-
-- 👨‍💻 All of my projects are available at [https://github.com/rubayetislamifti](https://github.com/rubayetislamifti)
-
-- 💬 Ask me about **Laravel**
-
-- 📫 How to reach me **rubayetislam16@gmail.com**
-
-- ⚡ Fun fact **What is the difference between a Spider and a Website Developer? Both are involved in web development.**
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
