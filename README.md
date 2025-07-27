@@ -43,6 +43,10 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/svg/376333/latex" alt="postman" width="40" height="40"/>
+  </a>
+  
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rubayetislamifti&show_icons=true&locale=en&layout=compact" alt="rubayetislamifti" /></p>
